@@ -22,5 +22,5 @@ Tools: Jupyter Notebooks and Watson Studio
 
 Libraries: Pandas, NumPy, Matplotlib, Seaborn, ipython-sql, Scikit-learn, ScipPy, Keras, and TensorFlow.
 
-# Licences
+## Licences
 The solutions uploaded here are only for reference. Any correction, advice or suggestion are welcome.
