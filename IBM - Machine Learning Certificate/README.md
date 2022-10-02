@@ -24,3 +24,4 @@ Libraries: Pandas, NumPy, Matplotlib, Seaborn, ipython-sql, Scikit-learn, ScipPy
 
 ## Licences
 The solutions uploaded here are only for reference. Any correction, advice or suggestion are welcome.
+<div dir="rtl"> Raffaele Pane </div>
