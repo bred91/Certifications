@@ -7,3 +7,5 @@ If you don't know me, I am Raffaele Pane, a Computer Engineer specialized in Big
 
 ## Licences
 The solutions uploaded here are only for reference. Any correction, advice or suggestion are welcome.
+
+<div dir="rtl"> Raffaele Pane </div>
